@@ -18,7 +18,7 @@ function App() {
         <Header />
         <NavBar />
           <Switch>
-            <Route path="/intranet" exact component={HomePage} />
+            <Route path="https://huypham0427.github.io/intranet/" exact component={HomePage} />
             <Route path="/news">
               <NewsFeed />
             </Route>
@@ -28,7 +28,7 @@ function App() {
             <Route path="/projects/productiondocs">
               <ProductionDocs />
             </Route>
-            <Route path="/projects/companydocs">
+            <Route path="https://huypham0427.github.io/projects/companydocs">
               <CompanyDocs />
             </Route>
 
