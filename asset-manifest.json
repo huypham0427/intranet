@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/intranet/static/css/main.002232d6.css",
+    "main.js": "/intranet/static/js/main.554f4d1f.js",
+    "static/js/787.48adcdfa.chunk.js": "/intranet/static/js/787.48adcdfa.chunk.js",
+    "static/media/phonelist.pdf": "/intranet/static/media/phonelist.8dcf764934616edc0413.pdf",
+    "static/media/PMAccountAssignments.pdf": "/intranet/static/media/PMAccountAssignments.8c4b3c284e6fcd94637a.pdf",
+    "static/media/WorkHours.pdf": "/intranet/static/media/WorkHours.6b4f153da48f31943bfd.pdf",
+    "static/media/Ina_1_1.jpg": "/intranet/static/media/Ina_1_1.4688e4eb8f5e9cf06d62.jpg",
+    "index.html": "/intranet/index.html",
+    "main.002232d6.css.map": "/intranet/static/css/main.002232d6.css.map",
+    "main.554f4d1f.js.map": "/intranet/static/js/main.554f4d1f.js.map",
+    "787.48adcdfa.chunk.js.map": "/intranet/static/js/787.48adcdfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002232d6.css",
+    "static/js/main.554f4d1f.js"
+  ]
+}
