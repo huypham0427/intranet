@@ -18,7 +18,7 @@ function App() {
         <Header />
         <NavBar />
           <Switch>
-            <Route path="/" exact component={HomePage} />
+            <Route path="/intranet" exact component={HomePage} />
             <Route path="/news">
               <NewsFeed />
             </Route>
